@@ -1,0 +1,4 @@
+echo ".env" >> .gitignore
+echo "internal/config/config.go" >> .gitignore
+echo "internal/config/config_test.go" >> .gitignore
+echo "internal/database/mongo.go" >> .gitignore 
